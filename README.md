@@ -51,4 +51,3 @@ This document provides an overview of the AR/VR crime-solving platform designed 
 
 The AR/VR crime-solving platform represents a significant advancement in criminal investigations. By leveraging immersive technology and fostering public participation, we aim to revolutionize evidence evaluation and enhance crime-solving efficiency.
 
-For more information and to access the platform, please visit our website.
